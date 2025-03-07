@@ -67,6 +67,7 @@ qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
 #firefox                                               # browser
+microsoft-edge-stable                                  # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
@@ -75,7 +76,7 @@ vim                                                    # terminal text editor
 code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 fzf                                                    # Command-line fuzzy finder
-discord                                                # Command-line fuzzy finder
+discord-canary                                         # Discord
 
 # --------------------------------------------------- // Gaming
 cachyos-gaming-meta                                    # Gaming setup.
