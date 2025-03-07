@@ -66,7 +66,7 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-#firefox                                                # browser
+#firefox                                               # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
@@ -75,10 +75,11 @@ vim                                                    # terminal text editor
 code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 fzf                                                    # Command-line fuzzy finder
+discord                                                # Command-line fuzzy finder
 
 # --------------------------------------------------- // Gaming
-cachyos-gaming-meta                                    # browser
-cachyos-gaming-applications                            # browser
+cachyos-gaming-meta                                    # Gaming setup.
+cachyos-gaming-applications                            # Gamescope, Goverlay, Heroic Games Launcher, Lutris, MangoHud and Steam.
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
