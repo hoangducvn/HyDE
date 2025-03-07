@@ -15,6 +15,9 @@ bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
+wttrbar                                                # for weather
+python-requests|wttrbar                                # script dependency
+ddcui                                                  # GUI to control brightness for external monitors
 
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
@@ -72,6 +75,10 @@ vim                                                    # terminal text editor
 code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 fzf                                                    # Command-line fuzzy finder
+
+# --------------------------------------------------- // Gaming
+cachyos-gaming-meta                                    # browser
+cachyos-gaming-applications                            # browser
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
