@@ -37,6 +37,7 @@ slurp                                                  # region select for scree
 satty                                                  # Modern Screenshot Annotation
 cliphist                                               # clipboard manager
 hyprsunset                                             # blue light filter
+nwg-dock-hyprland                                      # dock menu
 
 # --------------------------------------------------- // Dependencies
 polkit-gnome                                           # authentication agent
@@ -62,7 +63,7 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
+#firefox                                                # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
