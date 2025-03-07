@@ -73,6 +73,7 @@ code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 fzf                                                    # Command-line fuzzy finder
 rider                                                  # Rider
+flatpak                                                # Flatpak
 
 # --------------------------------------------------- // Gaming
 cachyos-gaming-meta                                    # Gaming setup.
